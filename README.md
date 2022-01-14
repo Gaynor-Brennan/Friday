@@ -1,3 +1,4 @@
 # Friday
 Hello World 
-It's Friday -n
+
+It's Friday 
